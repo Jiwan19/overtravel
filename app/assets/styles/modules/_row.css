@@ -107,7 +107,7 @@
     }
     
     &--equal-height-at-large {
-        @mixin atlarge {
+        @mixin atLarge {
             display: flex;
         }
         
