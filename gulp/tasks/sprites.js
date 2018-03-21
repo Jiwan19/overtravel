@@ -5,6 +5,11 @@ var gulp = require('gulp'),
 
 // var config consist of mode we used, and it used the css mode
 var config = {
+    shape: {
+        spacing: {
+            padding: 1
+        }
+    },
     mode: {
         css: {
             sprite: 'sprite.svg',
